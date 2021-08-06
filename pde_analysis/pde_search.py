@@ -7,7 +7,7 @@ Entrez.email = # add email
 
 file = 'Coronaviridae_nuccomplete.csv'#
 
-outp = 'CoV_dat1'
+outp = 'CoV_dat2'
 
 
 
