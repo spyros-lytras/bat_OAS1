@@ -1,0 +1,489 @@
+Accession,Host,Species,Genus,Length,Collection_Date,Bat_host
+MT430884.1,Apodemus peninsulae,Apodemus peninsulae coronavirus,Betacoronavirus,31270,2019-07,N
+LC469308.1,Vespertilio sinensis,Bat coronavirus,,29930,,Y
+KX574227.1,Pipistrellus,Bat coronavirus,,29642,20/02/2013,Y
+KU182965.1,Myotis daubentonii,Bat coronavirus,,30321,2012-12,Y
+MG977444.1,Pan troglodytes verus,Betacoronavirus 1,Betacoronavirus,30571,04/01/2017,N
+MG977445.1,Pan troglodytes verus,Betacoronavirus 1,Betacoronavirus,30677,31/12/2016,N
+MG977447.1,Pan troglodytes verus,Betacoronavirus 1,Betacoronavirus,30705,26/12/2016,N
+MG977449.1,Pan troglodytes verus,Betacoronavirus 1,Betacoronavirus,30721,28/12/2016,N
+KF906250.1,Camelus bactrianus,Betacoronavirus 1,Betacoronavirus,31052,15/05/2013,N
+KY419112.1,Sus scrofa scrofa,Betacoronavirus 1,Betacoronavirus,30531,01/08/2015,N
+KU886219.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,30975,30/05/2015,N
+KF906249.1,Camelus bactrianus,Betacoronavirus 1,Betacoronavirus,31052,03/04/2013,N
+MN514962.1,Camelus dromedarius,Betacoronavirus 1,Betacoronavirus,31021,21/02/2015,N
+MN514963.1,Camelus dromedarius,Betacoronavirus 1,Betacoronavirus,31062,05/03/2016,N
+KF906251.1,Camelus bactrianus,Betacoronavirus 1,Betacoronavirus,31052,21/05/2013,N
+MG757141.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,31019,2014,N
+KX432213.1,Canis lupus familiaris,Betacoronavirus 1,Betacoronavirus,30868,2014,N
+MG757142.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,30939,2014,N
+MF083115.1,Sus scrofa,Betacoronavirus 1,Betacoronavirus,30682,2014-03,N
+MG757139.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,31028,2014,N
+MG757138.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,31026,2014,N
+KY419103.1,Sus scrofa scrofa,Betacoronavirus 1,Betacoronavirus,30632,15/09/2015,N
+MH043955.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,31032,2016-07,N
+MH043954.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,31016,2017-04,N
+MH043953.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,31032,2017-04,N
+MH043952.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,31019,2017-04,N
+KY419104.1,Sus scrofa scrofa,Betacoronavirus 1,Betacoronavirus,30530,15/08/2015,N
+KY419105.1,Sus scrofa scrofa,Betacoronavirus 1,Betacoronavirus,30513,20/08/2015,N
+MG518518.1,Hydropotes inermis,Betacoronavirus 1,Betacoronavirus,31034,24/02/2017,N
+JX860640.1,Canis lupus familiaris,Betacoronavirus 1,Betacoronavirus,31028,2008,N
+MW773844.1,Rattus norvegicus,Betacoronavirus 1,Betacoronavirus,31383,07/03/2017,N
+MW165134.1,Sus scrofa,Betacoronavirus 1,Betacoronavirus,30673,1970,N
+MN982199.1,Bovidae,Betacoronavirus 1,Betacoronavirus,31028,01/11/2018,N
+KY419110.1,Sus scrofa scrofa,Betacoronavirus 1,Betacoronavirus,30515,12/08/2015,N
+MG757140.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,31024,2014,N
+MN982198.1,Bovidae,Betacoronavirus 1,Betacoronavirus,31018,01/11/2018,N
+KY994645.1,Sus scrofa,Betacoronavirus 1,Betacoronavirus,30684,21/08/2008,N
+FJ425190.1,Rusa unicolor,Betacoronavirus 1,Betacoronavirus,30987,01/01/1994,N
+MN514967.1,Camelus dromedarius,Betacoronavirus 1,Betacoronavirus,30799,24/01/2016,N
+LC061274.1,Equus caballus,Betacoronavirus 1,Betacoronavirus,30916,2012,N
+FJ425184.1,Kobus ellipsiprymnus,Betacoronavirus 1,Betacoronavirus,30995,01/01/1994,N
+FJ425185.1,Kobus ellipsiprymnus,Betacoronavirus 1,Betacoronavirus,30940,01/01/1994,N
+FJ425186.1,Kobus ellipsiprymnus,Betacoronavirus 1,Betacoronavirus,30962,01/01/1994,N
+FJ425187.1,Odocoileus virginianus,Betacoronavirus 1,Betacoronavirus,31020,01/01/1994,N
+FJ425188.1,Rusa unicolor,Betacoronavirus 1,Betacoronavirus,30995,01/01/1994,N
+FJ425189.1,Rusa unicolor,Betacoronavirus 1,Betacoronavirus,30997,01/01/1994,N
+LC061273.1,Equus caballus,Betacoronavirus 1,Betacoronavirus,30916,2012,N
+EF424615.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,31017,,N
+EF424616.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,30970,,N
+EF424617.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,31016,,N
+EF424618.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,30995,,N
+EF424619.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,30995,,N
+EF424620.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,30964,,N
+EF424621.1,Bovidae,Betacoronavirus 1,Betacoronavirus,30995,,N
+MH810163.1,Bos grunniens,Betacoronavirus 1,Betacoronavirus,31032,2017,N
+EF424622.1,Giraffa camelopardalis,Betacoronavirus 1,Betacoronavirus,30979,,N
+EF424623.1,Giraffa camelopardalis,Betacoronavirus 1,Betacoronavirus,31002,,N
+EF424624.1,Giraffa camelopardalis,Betacoronavirus 1,Betacoronavirus,30979,,N
+LC061272.1,Equus caballus,Betacoronavirus 1,Betacoronavirus,30782,2009,N
+DQ915164.2,Vicugna pacos,Betacoronavirus 1,Betacoronavirus,31076,,N
+DQ811784.2,Bos taurus,Betacoronavirus 1,Betacoronavirus,31007,1983,N
+MN514966.1,Camelus dromedarius,Betacoronavirus 1,Betacoronavirus,31075,12/11/2015,N
+MN514965.1,Camelus dromedarius,Betacoronavirus 1,Betacoronavirus,30799,23/11/2015,N
+KX982264.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,30847,04/03/2014,N
+KU558923.1,Bubalus bubalis,Betacoronavirus 1,Betacoronavirus,30985,01/10/2014,N
+FJ938063.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,31024,30/11/1996,N
+FJ938064.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,30995,01/01/2000,N
+FJ938065.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,30969,01/01/2000,N
+FJ938066.1,Bos taurus,Betacoronavirus 1,Betacoronavirus,30953,01/01/1996,N
+MN514964.1,Camelus dromedarius,Betacoronavirus 1,Betacoronavirus,30780,20/11/2015,N
+KU558922.1,Bubalus bubalis,Betacoronavirus 1,Betacoronavirus,31039,01/10/2014,N
+MW246795.1,Erinaceus europaeus,Betacoronavirus Erinaceus,Betacoronavirus,30238,2018,N
+MW246796.1,Erinaceus europaeus,Betacoronavirus Erinaceus,Betacoronavirus,30846,2018,N
+MW246797.1,Erinaceus europaeus,Betacoronavirus Erinaceus,Betacoronavirus,30807,2018,N
+MW246798.1,Erinaceus europaeus,Betacoronavirus Erinaceus,Betacoronavirus,30885,2018,N
+MW246799.1,Erinaceus europaeus,Betacoronavirus Erinaceus,Betacoronavirus,30826,2019,N
+MW246800.1,Erinaceus europaeus,Betacoronavirus Erinaceus,Betacoronavirus,30627,2019,N
+MW246801.1,Erinaceus europaeus,Betacoronavirus Erinaceus,Betacoronavirus,30791,2019,N
+MW246802.1,Erinaceus europaeus,Betacoronavirus Erinaceus,Betacoronavirus,30277,2019,N
+MH687978.1,Rattus argentiventer,Betacoronavirus sp.,Betacoronavirus,31289,04/02/2015,N
+MH687977.1,Rattus argentiventer,Betacoronavirus sp.,Betacoronavirus,31327,04/02/2015,N
+MH687976.1,Rattus argentiventer,Betacoronavirus sp.,Betacoronavirus,31095,04/02/2015,N
+MH687974.1,Rattus argentiventer,Betacoronavirus sp.,Betacoronavirus,31223,12/11/2014,N
+MH687968.1,Rattus argentiventer,Betacoronavirus sp.,Betacoronavirus,31083,14/11/2014,N
+MH687973.1,Rattus argentiventer,Betacoronavirus sp.,Betacoronavirus,31323,12/11/2014,N
+MH687972.1,Rattus argentiventer,Betacoronavirus sp.,Betacoronavirus,31274,12/11/2014,N
+MH687971.1,Rattus argentiventer,Betacoronavirus sp.,Betacoronavirus,31171,12/11/2014,N
+MH687969.1,Rattus argentiventer,Betacoronavirus sp.,Betacoronavirus,31352,12/11/2014,N
+MH687970.1,Rattus argentiventer,Betacoronavirus sp.,Betacoronavirus,31038,12/11/2014,N
+KT368891.1,Camelus,Camel coronavirus HKU23,Betacoronavirus,31041,2015-03,N
+KM349744.1,Rattus norvegicus,China Rattus coronavirus HKU24,Betacoronavirus,31249,17/05/2012,N
+KM349743.1,Rattus norvegicus,China Rattus coronavirus HKU24,Betacoronavirus,31249,17/05/2012,N
+KM349742.1,Rattus norvegicus,China Rattus coronavirus HKU24,Betacoronavirus,31249,17/05/2012,N
+MN879331.1,Erinaceus amurensis,Erinaceus amurensis coronavirus,,30089,24/04/2017,N
+MK907286.1,Erinaceus amurensis,Erinaceus hedgehog coronavirus HKU31,Betacoronavirus,29951,2014-08,N
+MK907287.1,Erinaceus amurensis,Erinaceus hedgehog coronavirus HKU31,Betacoronavirus,29951,2014-08,N
+MK679660.1,Erinaceus europaeus,Hedgehog coronavirus 1,Betacoronavirus,30172,2014,N
+KC545386.1,Erinaceus europaeus,Hedgehog coronavirus 1,Betacoronavirus,30175,2012,N
+KC545383.1,Erinaceus europaeus,Hedgehog coronavirus 1,Betacoronavirus,30148,2012,N
+KX442565.1,Hypsugo pulveratus,Hypsugo bat coronavirus HKU25,Betacoronavirus,30497,08/05/2014,Y
+KX442564.1,Hypsugo pulveratus,Hypsugo bat coronavirus HKU25,Betacoronavirus,30498,14/09/2013,Y
+MT820626.1,Rattus norvegicus,Lucheng Rn rat coronavirus,Alphacoronavirus,28599,2014,N
+MT820627.1,Eothenomys miletus,Lucheng Rn rat coronavirus,Alphacoronavirus,29147,2014,N
+KF294380.2,Rattus norvegicus,Lucheng Rn rat coronavirus,Alphacoronavirus,28763,2013,N
+MN654997.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,,N
+MN654998.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,2017-05,N
+MG923477.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29458,17/02/2016,N
+MG923476.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29455,15/02/2016,N
+MN654996.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30006,2016-04,N
+MN655002.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30003,2017-05,N
+KT368833.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2014-12,N
+KT368836.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30119,2014-12,N
+MN654973.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,2015-11,N
+MN655001.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,02/04/2018,N
+MT226604.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,01/02/2017,N
+KT368831.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2014-12,N
+KT368832.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2014-12,N
+MF593268.1,Neoromicia capensis,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30009,20/04/2015,Y
+MT226603.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,01/02/2017,N
+MT226602.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,01/02/2017,N
+MT226601.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,01/02/2017,N
+MT226600.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,01/02/2017,N
+MN654999.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30113,2017-12,N
+MN655000.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,2017-02,N
+MG923471.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29721,18/03/2015,N
+MN654995.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,07/03/2018,N
+MN654982.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,2017-01,N
+MN654981.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,,N
+MN654980.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,2016-03,N
+MN654979.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30000,2017-05,N
+KT368834.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30113,2014-12,N
+KJ650297.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30105,30/11/2013,N
+KJ650296.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30099,30/12/2013,N
+MG923472.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29680,13/01/2015,N
+KT368830.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30119,2014-12,N
+KJ650295.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30100,30/12/2013,N
+MN654978.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,2016-06,N
+MN654977.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30097,2017-05,N
+MN654976.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30111,,N
+MN654975.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30111,2016-07,N
+MG923470.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29423,23/02/2015,N
+MN654983.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,2017-12,N
+MN654984.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,,N
+MN654985.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,,N
+MN654986.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,2017-05,N
+KT368835.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30119,2014-12,N
+MN654974.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30010,2017-05,N
+MG923475.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29462,03/02/2016,N
+MG923474.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29454,24/01/2016,N
+MG923473.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29374,16/03/2015,N
+MN654994.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30048,2017-04,N
+MN654993.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30000,,N
+MG923466.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30047,15/03/2017,N
+MG923467.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30077,15/03/2017,N
+MN654991.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,2015-11,N
+MN654990.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,,N
+MN654989.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30111,2017-01,N
+MN654988.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30111,,N
+MN654987.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30000,2017-05,N
+MG923468.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30091,15/03/2017,N
+MG923469.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29421,03/03/2015,N
+MN654992.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30101,2016-07,N
+KT368829.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2014-12,N
+KT368866.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30114,2015-02,N
+MK564475.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30085,24/08/2017,N
+KX108942.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30099,15/02/2015,N
+KX108943.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30088,23/04/2015,N
+KX108944.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30099,12/05/2015,N
+KX108945.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30101,29/05/2015,N
+KX108946.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30099,18/05/2015,N
+MW086527.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29786,2016-05,N
+MH259485.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30079,15/07/2014,N
+MN655017.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29998,2016-03,N
+MN655016.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29992,2015-11,N
+MN655015.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30000,,N
+MN655014.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30108,,N
+MN655013.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,,N
+KT877350.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30121,2014-09,N
+KT877351.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30010,2014-09,N
+MN655012.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30001,2017-05,N
+MN655011.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,2016-06,N
+MN655010.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,2017-05,N
+MH734115.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30033,13/03/2018,N
+MH734114.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30033,13/03/2018,N
+MK357909.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29797,21/04/2017,N
+KT751244.1,Camelus bactrianus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30107,,N
+MN655007.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30006,,N
+KP719933.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29559,,N
+KX108941.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30099,14/02/2015,N
+KP719932.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29559,2014-06,N
+KP719930.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29559,2014-06,N
+KP719929.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29559,2014-06,N
+KP719928.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29559,2014-06,N
+KP719927.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29559,2014-06,N
+MN655008.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30111,2017-05,N
+MN655009.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30113,2017-12,N
+KP719931.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29559,2014-06,N
+KX108940.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30099,12/02/2015,N
+KX108939.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30099,30/01/2015,N
+KX108938.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30101,13/12/2014,N
+KJ473821.1,Vespertilio sinensis,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30423,,Y
+KT368827.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30114,2014-09,N
+KJ650098.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30117,16/02/2014,N
+KJ713295.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30113,2013-11,N
+KJ713296.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30113,2013-11,N
+KJ713297.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30114,2013-11,N
+KT368826.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30122,2014-07,N
+KJ713298.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30083,2013-11,N
+KT368828.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30119,2014-12,N
+KF917527.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29851,08/11/2013,N
+MN655006.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,07/03/2018,N
+MN655005.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30111,2017-12,N
+MN655004.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,,N
+MK564474.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30085,24/08/2017,N
+KJ713299.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30116,2013-11,N
+MN655003.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,2017-05,N
+KT368825.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30119,2014-07,N
+MW545528.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30103,2015,N
+KX108937.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30097,02/06/2014,N
+MW086528.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29786,2016-05,N
+MW086529.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29786,2016-05,N
+MW086530.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29786,2016-05,N
+MW086531.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29786,2016-05,N
+MW086532.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29786,2016-05,N
+KT368824.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30115,2014-05,N
+MW086533.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29819,2016-05,N
+MW086535.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29825,2016-05,N
+MW086538.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29825,2016-05,N
+MW086539.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29815,2016-05,N
+KU242424.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,04/03/2014,N
+MH259486.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30111,15/07/2014,N
+MW545527.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30103,2015,N
+MW086534.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29826,2016-05,N
+KU242423.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,12/03/2014,N
+MK967708.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30106,2018,N
+KT368838.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2014-12,N
+MF598670.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598669.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598668.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598667.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598666.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598665.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598664.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598663.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598662.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598661.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598660.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598659.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598658.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598657.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598656.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598655.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598654.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598653.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598652.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598651.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598650.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598649.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598648.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598671.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598672.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598673.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598674.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598698.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598697.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598696.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598695.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598694.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598693.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598692.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598691.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+KY581697.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,18/02/2014,N
+MF598689.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30121,2015-03,N
+MF598688.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598647.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598687.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598685.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598684.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598683.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598682.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598681.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598680.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598679.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598678.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598677.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598676.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598675.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598686.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598699.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598646.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598644.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598613.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598612.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598611.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598610.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598609.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598608.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598607.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598606.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598605.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598604.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598603.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598602.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598601.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598600.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598599.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598598.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598597.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598596.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598595.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598594.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+KY581698.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,01/06/2014,N
+KY581699.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,01/06/2014,N
+KT368865.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30109,2015-01,N
+MF598614.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598615.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598616.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598617.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598643.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598641.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598640.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598639.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598638.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598637.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598636.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598635.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598634.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598633.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598632.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598645.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598631.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598629.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598627.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598626.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598625.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598624.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598623.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598622.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598621.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598620.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598619.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598618.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+MF598630.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+KT368837.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30117,2014-12,N
+MF598700.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598702.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MN654971.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30112,2015-12,N
+MN654970.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,2016-07,N
+MN507638.1,Lama glama,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30033,,N
+KT368840.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30116,2014-12,N
+KT368841.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30110,2014-12,N
+KT368842.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30116,2014-12,N
+KT368843.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2014-12,N
+KT368875.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30113,2015-03,N
+KT368874.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30122,2015-03,N
+KT368873.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2015-03,N
+KT368872.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30122,2015-03,N
+KT368844.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30109,2014-12,N
+KT368845.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30116,2014-12,N
+KT368846.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30115,2014-11,N
+KT368871.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2015-03,N
+KT368847.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30110,2014-11,N
+KT368848.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2014-11,N
+KT368849.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30117,2014-10,N
+KT368850.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2014-10,N
+KT368870.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30110,2015-03,N
+KT368869.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30111,2015-03,N
+MN758606.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30089,2017,N
+MN758607.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30089,2017,N
+MN654972.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30004,2016-06,N
+KJ477103.2,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30101,2013,N
+KT368876.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30121,2015-03,N
+KT368877.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2015-03,N
+MG923478.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29462,03/02/2016,N
+MG923479.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29455,05/02/2016,N
+KY581700.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,18/02/2014,N
+KT368839.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30117,2014-12,N
+MG923480.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29462,07/02/2016,N
+MG923481.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29462,16/02/2016,N
+MT226605.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,01/02/2017,N
+MT226606.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,01/02/2017,N
+MT226607.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,01/02/2017,N
+KT368890.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30120,2015-03,N
+KT368889.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30110,2015-03,N
+MN758608.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30089,2017,N
+KT368888.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30116,2015-04,N
+KT368886.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2015-04,N
+KT368885.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2015-04,N
+KT368884.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30114,2015-04,N
+MK357908.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29797,21/04/2017,N
+KT368883.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30122,2015-04,N
+KJ477102.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,29908,2013,N
+KT368882.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30120,2015-04,N
+KT368881.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30113,2015-04,N
+KT368880.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30122,2015-04,N
+KT368879.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30107,2015-03,N
+KT368878.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30117,2015-03,N
+KT368887.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30116,2015-04,N
+MF598701.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MG596802.1,Hypsugo savii,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30048,2011,Y
+KT368868.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30122,2015-03,N
+KT368864.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2015-01,N
+MG596803.1,Pipistrellus kuhlii,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30039,2011,Y
+MF598721.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598720.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598719.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598717.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598716.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598715.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598714.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+KT368863.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30120,2015-01,N
+MF598713.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598711.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598710.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598709.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598708.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598707.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598706.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598705.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598704.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598703.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+MF598712.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+KT368862.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30120,2015-01,N
+MF598722.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-04,N
+KT368854.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2014-09,N
+KT368851.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30119,2014-10,N
+MN758609.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30089,2017,N
+KT368852.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30117,2014-10,N
+MN758610.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30089,2017,N
+KY673149.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-01,N
+KT368853.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30108,2014-09,N
+MN758613.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30089,2017,N
+KT368855.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30115,2014-09,N
+KT368867.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30116,2015-02,N
+MN758611.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30089,2017,N
+MF598690.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,2015-03,N
+KT368856.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30117,2014-09,N
+KT368857.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30119,2014-09,N
+KT368858.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30113,2015-01,N
+KY581695.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,01/06/2014,N
+KC869678.4,Neoromicia capensis,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30111,2011,Y
+KT368859.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30116,2015-01,N
+KT368860.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30122,2015-01,N
+MN758614.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30089,2017,N
+KT368861.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30118,2015-01,N
+MN758612.1,Camelus dromedarius,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30089,2017,N
+KY581696.1,Camelus,Middle East respiratory syndrome-related coronavirus,Betacoronavirus,30123,12/03/2014,N
+FJ647227.1,Mus musculus,Murine coronavirus,Betacoronavirus,31250,,N
+GU593319.1,Mus musculus,Murine coronavirus,Betacoronavirus,31147,,N
+FJ647226.1,Mus musculus,Murine coronavirus,Betacoronavirus,31473,,N
+FJ647225.1,Mus musculus,Murine coronavirus,Betacoronavirus,31293,,N
+FJ647224.1,Mus musculus,Murine coronavirus,Betacoronavirus,31448,,N
+FJ647223.1,Mus musculus,Murine coronavirus,Betacoronavirus,31386,,N
+FJ647222.1,Mus musculus,Murine coronavirus,Betacoronavirus,31283,,N
+FJ647221.1,Mus musculus,Murine coronavirus,Betacoronavirus,31456,,N
+FJ647220.1,Mus musculus,Murine coronavirus,Betacoronavirus,31429,,N
+FJ647219.1,Mus musculus,Murine coronavirus,Betacoronavirus,31427,,N
+FJ647218.1,Mus musculus,Murine coronavirus,Betacoronavirus,31285,01/01/2006,N
+FJ884687.1,Mus musculus,Murine coronavirus,Betacoronavirus,31277,,N
+FJ884686.1,Mus musculus,Murine coronavirus,Betacoronavirus,31275,,N
+MW620427.1,Mus musculus,Murine coronavirus,Betacoronavirus,31218,2020,N
+FJ938068.1,Rattus,Murine coronavirus,Betacoronavirus,31250,,N
+JF792617.1,Rattus,Murine coronavirus,Betacoronavirus,31274,,N
+JF792616.1,Rattus,Murine coronavirus,Betacoronavirus,31286,,N
+KF268336.1,Mus musculus,Murine coronavirus,Betacoronavirus,31294,25/10/2012,N
+MF618252.1,Mus musculus,Murine coronavirus,Betacoronavirus,29947,16/01/2014,N
+MF618253.1,Mus musculus,Murine coronavirus,Betacoronavirus,29893,16/01/2014,N
+KF268337.1,Mus musculus,Murine coronavirus,Betacoronavirus,31294,25/10/2012,N
+KF268339.1,Mus musculus,Murine coronavirus,Betacoronavirus,31283,25/10/2012,N
+KF268338.1,Mus musculus,Murine coronavirus,Betacoronavirus,31294,25/10/2012,N
+MN611520.1,Pipistrellus abramus,Pipistrellus abramus bat coronavirus HKU5-related,Betacoronavirus,30511,2018-03,Y
+EF065512.1,Chiroptera,Pipistrellus bat coronavirus HKU5,Betacoronavirus,30487,,Y
+EF065511.1,Chiroptera,Pipistrellus bat coronavirus HKU5,Betacoronavirus,30488,,Y
+KJ473820.1,Pipistrellus abramus,Pipistrellus bat coronavirus HKU5,Betacoronavirus,30480,2013,Y
+EF065509.1,Chiroptera,Pipistrellus bat coronavirus HKU5,Betacoronavirus,30482,,Y
+EF065510.1,Chiroptera,Pipistrellus bat coronavirus HKU5,Betacoronavirus,30488,,Y
+JN874560.1,Oryctolagus cuniculus,Rabbit coronavirus HKU14,Betacoronavirus,31116,2007,N
+JN874562.1,Oryctolagus cuniculus,Rabbit coronavirus HKU14,Betacoronavirus,30904,2007,N
+JN874561.1,Oryctolagus cuniculus,Rabbit coronavirus HKU14,Betacoronavirus,31096,2007,N
+JN874559.1,Oryctolagus cuniculus,Rabbit coronavirus HKU14,Betacoronavirus,31100,2006,N
+MT549854.1,Rattus norvegicus,Rodent coronavirus,,28648,2016-12,N
+EF065507.1,Chiroptera,Tylonycteris bat coronavirus HKU4,Betacoronavirus,30286,,Y
+EF065506.1,Chiroptera,Tylonycteris bat coronavirus HKU4,Betacoronavirus,30286,,Y
+EF065505.1,Chiroptera,Tylonycteris bat coronavirus HKU4,Betacoronavirus,30286,,Y
+MW218395.1,Tylonycteris pachypus,Tylonycteris bat coronavirus HKU4,Betacoronavirus,30248,16/08/2010,Y
+KJ473822.1,Tylonycteris pachypus,Tylonycteris bat coronavirus HKU4,Betacoronavirus,30247,2012,Y
+EF065508.1,Chiroptera,Tylonycteris bat coronavirus HKU4,Betacoronavirus,30316,,Y
+MN611519.1,Tylonycteris pachypus,Tylonycteris pachypus bat coronavirus HKU4-related,Betacoronavirus,30224,2018-03,Y
