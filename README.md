@@ -1,4 +1,6 @@
-# Online supplementary for [A Prenylated dsRNA Sensor Protects Against Severe COVID-19 and is Absent in Horseshoe Bats](https://www.medrxiv.org/content/10.1101/2021.05.05.21256681v1.full-text)
+[![DOI](https://zenodo.org/badge/393326698.svg)](https://zenodo.org/badge/latestdoi/393326698)
+
+# Online supplementary for [A Prenylated dsRNA Sensor Protects Against Severe COVID-19](https://doi.org/10.1126/science.abj3624)
 
 (this repository contains supplementary material for the following sections of the above paper: <i>Synteny analysis</i>, <i>In silico genome screening</i>, <i>PDE analysis</i>)
 
